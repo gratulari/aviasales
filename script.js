@@ -12,7 +12,7 @@ const formSearch = document.querySelector('.form-search'),
 const citiesApi = 'database/cities.json',
     proxy = 'https://cors-anywhere.herokuapp.com/',
     API_KEY = '853c139c883e1864a947c2d64131e004',
-    calendar = 'http://min-prices.aviasales.ru/calendar_preload';
+    calendar = 'https://min-prices.aviasales.ru/calendar_preload';
 
 let city = [];
 
